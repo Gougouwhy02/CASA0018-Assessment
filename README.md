@@ -1,4 +1,4 @@
-# Smart Bird Feeder Intruder Alert
+# Smart Bird Feeder Scene Monitoring
 
 ## Project Overview
 This project aims to build a simple embedded image classification system for a bird feeder scene.  

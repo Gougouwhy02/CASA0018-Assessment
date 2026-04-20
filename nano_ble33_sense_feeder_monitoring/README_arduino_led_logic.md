@@ -1,4 +1,4 @@
-# Smart Bird Feeder Intruder Alert  
+# Bird-feeder Scene Monitoring
 ## LED Logic
 
 This project uses an Edge Impulse image classification model on an Arduino Nano 33 BLE Sense with an OV7675 camera.

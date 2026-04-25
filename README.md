@@ -91,3 +91,7 @@ The Arduino system performs:
 ## Final Device Logic
 
 For the final device logic and LED flashing logic, please refer to Document README_arduino_led_logic.md
+
+## YouTube Video Link:
+
+https://youtu.be/ee7ip7r_Kic
